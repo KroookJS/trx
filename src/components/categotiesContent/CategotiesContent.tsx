@@ -65,7 +65,7 @@ export const CategotiesContent = () => {
             width={120}
             height={50}
           />
-          <h2>Японочки</h2>
+          <h2>Япон New</h2>
         </div>
       </div>
     </div>
