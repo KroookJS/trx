@@ -10,7 +10,6 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.center}>
           <div className={styles.thirteen}>
-            {/*  <Image src="/assets/t2.jpeg" alt="13" width={350} height={181} priority /> */}
             <div className={styles.reklamaBlock}>
               <img src="/assets/gif3.gif" alt="gif" width={305} height={100} />
             </div>

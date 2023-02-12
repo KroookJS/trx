@@ -15,7 +15,7 @@ export const CategotiesContent = () => {
             width={120}
             height={50}
           />
-          <h2>Японки</h2>
+          <h2>Японки.</h2>
         </div>
         <div className={styles.contentBlockItem}>
           <img
@@ -65,7 +65,7 @@ export const CategotiesContent = () => {
             width={120}
             height={50}
           />
-          <h2>Япон New</h2>
+          <h2>Япон New.</h2>
         </div>
       </div>
     </div>

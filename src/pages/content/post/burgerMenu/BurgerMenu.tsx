@@ -74,7 +74,7 @@ export const BurgerMenu: FC<TProps> = ({ setActiveBurger }) => {
           <Link to="/categories">
             <div className={styles.navListItem}>
               <HiOutlinePhotograph />
-              <li className={styles.liItem}>激情图片</li>
+              <li className={styles.liItem}>激情图片.</li>
             </div>
           </Link>
         </ul>
