@@ -1,0 +1,72 @@
+{
+    "posts": [
+        {
+            "id": 132,
+            "photo": "/assets/n1.webp"
+        },
+        {
+            "id": 12652,
+            "photo": "/assets/n2.jpeg"
+        },
+        {
+            "id": 1632,
+            "photo": "/assets/n3.jpeg"
+        },
+        {
+            "id": 112,
+            "photo": "/assets/n4.jpeg"
+        },
+        {
+            "id": 1,
+            "photo": "/assets/t14.jpeg"
+        },
+        {
+            "id": 2,
+            "photo": "/assets/t15.jpeg"
+        },
+        {
+            "id": 3,
+            "photo": "/assets/t3.jpeg"
+        },
+        {
+            "id": 4,
+            "photo": "/assets/t4.jpeg"
+        },
+        {
+            "id": 5,
+            "photo": "/assets/t5.jpeg"
+        },
+        {
+            "id": 6,
+            "photo": "/assets/t6.jpeg"
+        },
+        {
+            "id": 7,
+            "photo": "/assets/t7.jpeg"
+        },
+        {
+            "id": 8,
+            "photo": "/assets/t8.jpeg"
+        },
+        {
+            "id": 9,
+            "photo": "/assets/t9.jpeg"
+        },
+        {
+            "id": 10,
+            "photo": "/assets/t10.jpeg"
+        },
+        {
+            "id": 11,
+            "photo": "/assets/t11.jpeg"
+        },
+        {
+            "id": 12,
+            "photo": "/assets/t12.jpeg"
+        },
+        {
+            "id": 13,
+            "photo": "/assets/t13.jpeg"
+        }
+]    
+}

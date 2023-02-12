@@ -1,0 +1,142 @@
+.post {
+  color: rgb(195, 188, 188);
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.textBlock {
+  max-width: 95vw;
+  margin: 3px auto 10px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.postName {
+  width: 135px;
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+}
+
+.postIconName {
+  width: 19px;
+  height: 13px;
+  border-radius: 50px;
+  background: #477bec;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.postRating {
+  color: gray;
+  display: flex;
+  column-gap: 10px;
+  font-size: 14px;
+}
+
+.iconFlex {
+  display: flex;
+  align-items: center;
+  column-gap: 5px;
+}
+.textVideo {
+  text-align: start;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.avaBlock {
+  display: flex;
+  column-gap: 10px;
+}
+.avaFoto {
+  border-radius: 50px;
+  width: 50px;
+  height: 50px;
+}
+.postImgVideo {
+  position: relative;
+}
+.playIcon {
+  position: absolute;
+  font-size: 60px;
+  top: 270px;
+  left: 46%;
+  transition: ease-in 0.2s;
+}
+
+.playIcon:hover {
+  color: #ece0e0;
+}
+.postNameFull {
+  /* width: 135px; */
+  display: flex;
+  flex-direction: column;
+  row-gap: 6px;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.userNameBlock {
+  display: flex;
+  align-items: center;
+
+  column-gap: 10px;
+}
+
+.ratingBlock {
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+
+  margin-left: 3px;
+}
+
+.btnFollow {
+  width: 30vw;
+  padding: 16px 10px;
+  border-radius: 15px;
+  border: none;
+  background: #ff9001;
+  color: black;
+  border: 3px solid rgb(0, 0, 0);
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+
+  transition: ease-in 0.2s;
+}
+
+.btnFollow:hover {
+  border: 3px solid white;
+}
+
+.btnFollow:active {
+  transform: scale(1.07);
+  background: #0e74e1bc;
+}
+
+.btnFollowActive {
+  width: 30vw;
+  padding: 16px 10px;
+  border-radius: 15px;
+  border: none;
+  background: #0e74e1bc;
+  color: white;
+
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+
+  border: 3px solid white;
+
+  transition: ease-in 0.2s;
+}
+
+.btnFollowActive:active {
+  transform: scale(1.07);
+  background: #ff9001;
+}

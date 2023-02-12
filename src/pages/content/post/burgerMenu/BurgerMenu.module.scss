@@ -1,0 +1,61 @@
+.menu {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  left: 0;
+  top: 0;
+  z-index: 50;
+}
+
+.blur {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.menuContent {
+  position: absolute;
+  z-index: 60;
+  width: 80vw;
+  height: 100vh;
+  background: rgb(0, 0, 0);
+}
+
+.logoBlock {
+  padding: 6px 14px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.close {
+  margin-top: 15px;
+  font-size: 35px;
+  color: rgb(119, 133, 133);
+}
+
+.navListItem {
+  margin: 10px 15px;
+  padding: 10px 15px;
+
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+
+  list-style: none;
+
+  font-size: 22px;
+
+  border-radius: 14px;
+  background: rgb(32, 31, 31);
+}
+
+.iText {
+  color: #ff9001;
+  font-size: 35px;
+  font-weight: 600;
+}

@@ -1,0 +1,41 @@
+.header {
+  max-width: 93vw;
+  margin: 5px auto;
+}
+
+.headerBlock {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.burger {
+  font-size: 25px;
+  color: #ff9001;
+}
+.logo {
+  cursor: pointer;
+}
+.testBlock {
+  width: 63vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.iconBlock {
+  display: flex;
+  gap: 20px;
+  font-size: 22px;
+}
+
+.navBarContainer {
+  width: 80vw;
+  height: 100vh;
+  background: gray;
+}
+
+.iText {
+  color: #ff9001;
+  font-size: 35px;
+  font-weight: 600;
+}
